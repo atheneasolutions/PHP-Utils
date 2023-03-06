@@ -1,6 +1,7 @@
 {
     "name": "athenea/utils",
     "description": "PHP general utilities for Athenea Solutions",
+    "license": "MIT",
     "autoload": {
 
         "files": [ "array.php" ]
