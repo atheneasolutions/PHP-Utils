@@ -1,0 +1,18 @@
+{
+    "name": "athenea/utils",
+    "description": "PHP general utilities for Athenea Solutions",
+    "autoload": {
+
+        "files": [ "array.php" ]
+    },
+    "authors": [
+        {
+            "name": "Lluc Bové",
+            "email": "lluc.bove@atheneasolutions.com"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    }
+}
